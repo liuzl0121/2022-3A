@@ -1,5 +1,5 @@
 # pert圖與關鍵路徑
-![pert](pert.png "pert")
+![pert](pert圖.png "pert")
 
 # Gantt圖
-![Gantt](Gantt.png "Gantt")
+![Gantt](Gantt.JPG "Gantt")
